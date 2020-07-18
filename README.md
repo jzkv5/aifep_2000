@@ -31,5 +31,5 @@
 
 
 ## Quizes
-+ Link to interactive quizes https://bit.ly/kw_poll 
-<img src="quiz_qr.png" alt="quiz qr code" width="40%"/>
++ Link to interactive quizes https://bit.ly/Jane_poll 
+<img src="quiz_qr.jpg" alt="quiz qr code" width="40%"/>
