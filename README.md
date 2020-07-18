@@ -1,6 +1,7 @@
-## AIFEP 30 Jun 2020
+## AIFEP 22 July 2020
 ## Attendance
-[<img src="eAttendance - AIFEP 30 Jun 2020.png" alt="quiz qr code" width="100%"/>](https://bit.ly/aifep_m1_jun20)
+[<img src="eAttendance-AIFEP 23 July 2020.PNG" alt="attendance qr code" width="100%"/>](https://bit.ly/23July_attendance
+)
 
 ## Instructions
 + Download pdf (presentation deck and activity sheets)
