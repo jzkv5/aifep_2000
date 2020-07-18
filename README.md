@@ -1,4 +1,4 @@
-## AIFEP 22 July 2020
+## AIFEP 23 July 2020
 ## Attendance
 [<img src="eAttendance-AIFEP 23 July 2020.PNG" alt="attendance qr code" width="100%"/>](https://bit.ly/23July_attendance
 )
