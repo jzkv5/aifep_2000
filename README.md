@@ -26,7 +26,3 @@
 + AITopics  https://aitopics.org/search
 + Towards Data Science https://towardsdatascience.com/
 
-
-## Quizes
-+ Link to interactive quizes https://bit.ly/Jane_poll 
-<img src="quiz_qr.jpg" alt="quiz qr code" width="40%"/>
