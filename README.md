@@ -1,4 +1,4 @@
-## AIFEP 2 Nov 2020
+## AIFEP 2020
 
 ## Instructions
 + Download pdf (presentation deck and activity sheets)
